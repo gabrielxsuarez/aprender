@@ -5,10 +5,10 @@ Ultralearning
 
 Autor: Scott Young
 
-## Prologo
+### Prologo
  - Muchas ideas pueden parecer estupendas sobre el papel, pero fallan en el mundo real.
 
-## 1. ¿Se puede conseguir una educación equiparable a la del MIT sin ir a esa universidad?
+### 1. ¿Se puede conseguir una educación equiparable a la del MIT sin ir a esa universidad?
  - El autor cuenta como realizó algunos proyectos de ultralearning:
    1. Desafío MIT: En el plazo de 1 año estudia por su cuenta todas las asignaturas de ingeniería en informática, realiza los exámenes y los proyectos de programación. Utilizó OpenCourseWare para obtener el material.
    2. El año sin inglés: En el plazo de 1 año viaja a 4 países y aprende 4 idiomas.
@@ -16,12 +16,12 @@ Autor: Scott Young
  - Los proyectos de ultralearning tienen en común que se realizan de forma autodidacta con métodos extremos.
  - Ten siempre un desafío.
 
-## 2. ¿Por qué es importante el método de ultralearning para aprender más y más rápido?
+### 2. ¿Por qué es importante el método de ultralearning para aprender más y más rápido?
  - Aprender con rapidez habilidades difíciles puede tener un mayor impacto que años de esfuerzos mediocres.
  - Debido a la automatización, en el futuro los empleos serán de 2 tipos: muy cualificados o poco cualificados. Los empleos que requieran habilidades medias tenderán a desaparecer. La capacidad para aprender cosas difíciles de forma rápida será cada vez más valiosa.
  - Saca tiempo de donde sea, lo fundamental en el método de ultralearning es la intensidad y la voluntad de priorizar la eficacia.
 
-## 3. Cómo aplicar el método de ultralearning para aprender más y más rápido
+### 3. Cómo aplicar el método de ultralearning para aprender más y más rápido
  - El método ultralearning funciona mejor cuando seguimos una serie de principios en lugar de seguir al pie de la letra un protocolo concreto. Hay 9 principios:
    1. **Metaaprendizaje: Dibuja un mapa para empezar**: Investiga cual es la mejor forma de aprender algo.
    2. **Concentración: Afila la navaja**: Evita distraerte. Comprométete.
@@ -34,13 +34,13 @@ Autor: Scott Young
    9. **Experimentación: Sal de tu zona de confort**: Itera sobre lo que te funciona y lo que no. Busca la máxima eficacia.
  - El método de ultralearning posee su propio ethos: somos los responsables finales de los resultados que se generen. Si nos enfrentamos al método con esa actitud, deberíamos afrontar estos principios como directrices flexibles, no como reglas estrictas.
 
-## Principio 1 Metaaprendizaje: Dibuja un mapa para empezar
+### Principio 1: Metaaprendizaje: Dibuja un mapa para empezar
  - Antes de lanzarnos a aprender algo, debemos dibujar un mapa de todo lo que queremos aprender, seleccionar el mejor material de estudio, estimar tiempos y prever posibles complicaciones. Esto puede ahórranos mucho tiempo más adelante.
  - La calidad del material que empleemos puede suponer una diferencia abismal en la eficacia del aprendizaje.
  - El tiempo que dedicamos a planificar el aprendizaje no debe superar el 10% del tiempo total estimado para este proyecto.
  - El éxito de un proyecto te motiva a realizar el siguiente sin perder el tiempo.
 
-## Principio 2 Concentración Afila la navaja
+### Principio 2: Concentración Afila la navaja
  - La capacidad de concentración puede mejorarse con la práctica.
  - Para empezar a concentrarnos:
    1. NO te pongas a hacer otra cosa.
@@ -55,19 +55,19 @@ Autor: Scott Young
    1. Entra en un estado de mindfulness.
    2. Ajusta la dificultad de la tarea para que sea un desafío, pero no tanta como para abandonar.
 
-## Principio 3 Diligencia Ve a por ello
+### Principio 3: Diligencia Ve a por ello
  - Prioriza siempre la práctica antes que la teoría.
  - Practica en el mundo real siempre que sea posible.
  - La forma más fácil de aprender es pasar mucho tiempo haciendo aquello que queremos dominar.
  - Evita las formas indirectas para aprender algo solo porque practicar de verdad sea más incómodo o frustrante.
 
-## Principio 4 Práctica Ataca tu punto más débil
+### Principio 4: Práctica Ataca tu punto más débil
  - Habrá algún área del tema que estés aprendiendo que determine la velocidad a la que puedes aprender ese tema.
  - Para determinar tu punto débil comienza practicando, fallarás, analiza porque fallaste y mejora en esa área.
  - Mejora en esa área para acelerar tu aprendizaje del tema.
  - Practica de forma intensiva.
 
-## Principio 5 Recuperación de datos Examina para aprender
+### Principio 5: Recuperación de datos Examina para aprender
  - La recuperación de datos consiste en realizar un examen o recordar el tema a libro cerrado.
  - Al realizar esta actividad el recuerdo a largo plazo será muy superior que solo leer pasivamente sobre el tema.
  - Cuanto más difícil sea la recuperación de datos mayor será el aprendizaje.
@@ -75,7 +75,7 @@ Autor: Scott Young
  - Esta técnica funciona mejor si hay un leve desfase temporal entre el aprendizaje y la recuperación.
  - La recuperación de datos no basta para crear a un genio, pero puede ser una herramienta necesaria.
 
-## Principio 6 Interacción No esquives los golpes
+### Principio 6: Interacción No esquives los golpes
  - Debemos buscar retroalimentación sobre lo que estamos aprendiendo.
  - Muchas veces esa retroalimentación vendrá en forma de crítica, no debemos evitarla por ser incomoda.
  - El temor a la crítica suele ser más incómodo que experimentar la crítica en sí.
@@ -83,7 +83,7 @@ Autor: Scott Young
  - Los alumnos del método ultralearning ajustan su entorno para no predecir si van a fracasar o triunfar.
  - Aunque la idea de controlar el entorno para recibir críticas positivas puede resultar tentadora, la vida real no suele ofrecer esa posibilidad.
 
-## Principio 7 Retención No llenes un cubo que pierde agua
+### Principio 7: Retención No llenes un cubo que pierde agua
  - La curva del olvido indica que olvidaremos rápidamente lo aprendido:
    1. Repaso espaciado: Por a prueba tus conocimientos o habilidades en intervalos de tiempo cada vez mayores.
    2. Procedimentalización: Convierte tus conocimientos en una habilidad práctica.
@@ -91,7 +91,7 @@ Autor: Scott Young
    4. Mnemotecnia: Las reglas mnemotécnicas pueden ser útiles en algunas situaciones.
  - Los conocimientos y habilidades que no utilicemos deberán reaprenderse, pero será mucho más fácil que aprenderlo por primera vez.
 
-## Principio 8 Intuición Excava hondo antes de empezar a construir
+### Principio 8: Intuición Excava hondo antes de empezar a construir
  - Pasar mucho tiempo estudiando algo no basta para desarrollar la intuición, pero ayuda bastante.
    1. No te rindas ante problemas difíciles.
    2. Realiza demostraciones para crear nuevo conocimiento.
@@ -103,12 +103,12 @@ Autor: Scott Young
    3. Solo cuando nos quedemos estancados recurriremos a consultar el material de estudio.
  - Es fácil pensar que entendemos algo que no entendemos. No te engañes a ti mismo.
 
-## Principio 9 Experimentación Sal de tu zona de confort
+### Principio 9: Experimentación Sal de tu zona de confort
  - La experimentación es la clave para especializarse en una habilidad.
  - Mientras dos novatos pueden tener habilidades y conocimientos muy similares, dos especialistas serán muy diferentes.
  - Si no tienes una mentalidad de crecimiento no crecerás.
 
-## Tu primer proyecto de ultralearning para aprender más y más rápido
+### Tu primer proyecto de ultralearning para aprender más y más rápido
  - Haz una lista de las cosas que siempre quisiste aprender.
  - Los proyectos de ultralearning no son fáciles. requieren planificación, tiempo y esfuerzo.
  - Un proyecto exitoso lleva a otro. Normalmente es el primero el que necesita de más planificación y cuidado.
@@ -128,5 +128,5 @@ Autor: Scott Young
       - Opción 2 (Reaprender): A veces el coste de reaprender una habilidad es menor que mantenerla en el tiempo.
       - Opción 3 (Especialización): Continúa aprendiendo activamente.
 
-## Una educación poco convencional
+### Una educación poco convencional
  - Deberíamos esparcir la idea del aprendizaje intensivo en todos los campos.
