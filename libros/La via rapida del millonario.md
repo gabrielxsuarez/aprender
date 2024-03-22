@@ -5,28 +5,20 @@
 Autor: M. J. DeMarco
 
 ## Introducción
+ - Lo que puede conseguirse en cincuenta años con la estrategia del "hazte rico poco a poco" puede lograrse en cinco con el atajo que es la vía rápida.
  - Si quieres seguir obteniendo lo que estás obteniendo, sigue haciendo lo que estás haciendo. ¿La traducción? ¡DETENTE! Si no te has hecho rico, DEJA de hacer lo que estés haciendo.
 
-
 ## PARTE 1: LA RIQUEZA EN SILLA DE RUEDAS: «HACERSE RICO POCO A POCO» ES LLEGAR A SER RICO EN LA VEJEZ
-
-### 1. La gran decepción
- - La filosofía del «hacerse rico poco a poco» exige tener un empleo remunerado durante la mayor parte de la vida.
- - La filosofía del «hacerse rico poco a poco» es una apuesta perdedora, porque es codependiente de Wall Street y está basada en tu tiempo.
- - Los verdaderos años dorados de la vida son aquellos en los que somos jóvenes, tenemos los sentidos bien despiertos y estamos llenos de vitalidad.
-
-### 2. Cómo mandé al diablo el «hazte rico poco a poco»
- - La fama o el talento físico no son prerrequisitos para hacerse rico.
- - La riqueza rápida se genera exponencialmente, no linealmente.
- - El cambio puede acontecer en un instante.
-
+ - Si quieres hacerte rico y tu estrategia es conseguirlo poco a poco, tengo malas noticias. Es una apuesta perdedora, y lo que estás apostando es tu tiempo.
+ - Se requiere toda una vida para completar la ruta del "hacerse rico poco a poco", y su éxito depende, nefastamente, de demasiados factores que no puede controlar.
+ - La creación de riqueza, para un emprendedor de la vía rápida, progresa de forma exponencial, mientras que quienes tienen empleos están sujetos a un avance lineal.
+ - Mi nueva pasión eran la automatización y los procesos. Fui trabajando cada vez menos. De repente, estaba trabajando una hora al día en lugar de diez. Sin embargo, el dinero seguía entrando.
 
 ## PARTE 2: LA RIQUEZA NO ES UN CAMINO, SINO UN VIAJE
+ - La riqueza es fruto de un proceso, no de un acontecimiento.
+ - Si el viaje a la riqueza fuese fácil, ¿no sería todo el mundo rico? Prevé que tendrás que pagar un precio. Prevé que tendrás que correr riesgos y efectuar sacrificios.
+ - Las creencias preceden a las elecciones, las cuales preceden a la acción.
 
-### 3. El viaje hacia la riqueza
- - La riqueza es una fórmula, no un ingrediente.
- - Es el proceso lo que forja millonarios. Los acontecimientos son subproductos del proceso.
- - Buscar un «chófer» para que conduzca por ti hacia la riqueza es buscar un sustituto para el proceso. Pero el proceso no puede externalizarse, porque es lo que aporta sabiduría crecimiento personal y fuerza y lo que desemboca en los eventos de enriquecimiento.
 
 ### 4. Los tres itinerarios y la riqueza
  - Para forzar el cambio, este debe provenir de tus creencias, y tu itinerario describe estas creencias.
